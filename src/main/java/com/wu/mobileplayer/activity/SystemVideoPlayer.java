@@ -44,7 +44,7 @@ public class SystemVideoPlayer extends Activity {
         }
 
         //设置控制面板
-        vv_video.setMediaController(new MediaController(this));
+//        vv_video.setMediaController(new MediaController(this));
     }
 
     class MyOnPreparedListener implements MediaPlayer.OnPreparedListener{
